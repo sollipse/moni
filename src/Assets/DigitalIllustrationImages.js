@@ -1,0 +1,18 @@
+export default [
+    ["DigitalIllustrations/5.jpg", "Ruby Melon"],
+    ["DigitalIllustrations/2.jpg", "Kiwi Green"],
+    ["DigitalIllustrations/3.jpg", "Rainier"],
+    ["DigitalIllustrations/Nutcracker.jpg", "Nutcracker"],
+    ["DigitalIllustrations/Jai_Wolf.jpg", "Jai Wolf"],
+    ["DigitalIllustrations/Fire_hair.jpg", "Fire Hair"],
+    ["DigitalIllustrations/Solaris_full.jpg", "Solaris"],
+    ["DigitalIllustrations/4-2.jpg", "Thanks"],
+    ["DigitalIllustrations/Logo_whalethestickerie.jpg", "WhaleTheStickerie"],
+    ["DigitalIllustrations/dandelion_sticker.jpg", "Dandy Lion"],
+    ["DigitalIllustrations/Elven_girl.jpg", "Elven Girl"],
+    ["DigitalIllustrations/Mermaid.png", "Mermaid"],
+    ["DigitalIllustrations/Raven_skull.jpg", "Raven Skull"],
+    ["DigitalIllustrations/Tattoo_grimreaper.jpg", "Grim Reaper Tattoo"],
+    ["DigitalIllustrations/Tattoo_howling.jpg", "Howling Tattoo"],
+    ["DigitalIllustrations/Tattoo_snake.jpg", "Mist Snake Tattoo"],
+]
